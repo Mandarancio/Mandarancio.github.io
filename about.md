@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+After a bachelor in Computer Engineering at the University of Parma (Italy) I worked few years at CERN as developer (first java distributed software than real-time c++ control software) and now I'm studing Computer Science at the University of Geneva (Switzerland).
+I am also passionate of photography and travel (and music, movies, comics etc etc).
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[manda.mgf@gmail.com](mailto:manda.mgf@gmail.com)
