@@ -99,7 +99,7 @@ experiences:
         instrumentation and the front-end expert tool to control them. Other side projects included
         the development of several *GNU/Linux* driver for custom VME boards, a web server to 
         access to the *VME* boards using a simple *REST API* and developing and maintaining of 
-        several `Java` libraries for the team.
+        several *Java* libraries for the team.
 
     - role: Java Software Engineer
       time: 2012 - 2014
@@ -163,22 +163,28 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & C/C++ & Java
+      - name:  C/C++ & Java
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Python 
         level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+        
+      - name: Octave & Julia & Lua
         level: 95%
+        
+      - name: Haskell
+        level: 90%
 
-      - name: Ruby on Rails
+      - name: HTML5 & CSS & JavaScript 
+        level: 90%
+
+      - name: PHP & MySql
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Swift & Go
         level: 60%
+
+      - name: VeriLog
+        level: 50%
 
 footer: 
