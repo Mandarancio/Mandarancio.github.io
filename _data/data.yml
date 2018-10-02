@@ -147,17 +147,13 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Injecting Image Priors into Learnable Compressive Subsampling"
+        authors: M. Ferrari, O. Taran, T. Holotyak, K. Egiazarian, and S. Voloshynovskiy
+        conference: "26th European Signal Processing Conference (EUSIPCO), Rome, Italy"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Signal sampling with joint training
+        authors: M. Ferrari, O. Taran, T. Holotyak, K. Egiazarian, and S. Voloshynovskiy
+        conference: "European Patent 18191494.6"
 
 skills:
     title: Skills &amp; Proficiency
