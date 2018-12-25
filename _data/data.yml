@@ -12,7 +12,7 @@ sidebar:
     avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: manda.mgf@gmail.com
+    email: martino.g.ferrari@gmail.com
     phone: 012 345 6789
     website: #blog.webjeda.com #do not add http://
     linkedin: mandamgf
@@ -43,46 +43,35 @@ sidebar:
       - item: Photography
         link:
 
-      - item: Cooking
+      - item: Robotics
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
-
+    I am a Computer Scientist specilized in Machine Learning and Image processing passionate of research and software development with a previous carreer as Software Engineer for both real-time embedded systems and distributed systems.   
+    I have also acquired strong knowledge of control theory, electronics and telecomunication trought my bachlor in Computer Engineering.   
+    In my free time I experiment with robotics and electronics or develop open source project that varies from games to application to improve my workflow.
+    
+    
 education:
     - degree: MSc in Computer Science
       university: University of Geneva
       time: 2016 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+        *Final Grade*: 5.7/6  
+        *Thesis*: “Injecting Image Priors into Learnable Compressive Subsampling”   
+        *Advisor*: Prof. Sviatoslav Voloshynovskiy  
+        *Relevant courses*: Information Theory, Advanced Image Processing, Metaheuristics for Optimisation, Simulation and Modelling of Natural Events, Natural Languages Processing
 
     - degree: BSc in Computer Enginering
       university: University of Parma
       time: 2008 - 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+        *Final Grade*: 94/110  
+        *Thesis*: “Development of a Monitoring System for the CERN Isotope Separator”  
+        *Advisor*: Prof. Michele Tomaiuolo  
+        *Relevant courses*: Robotics, Automatic Controls A&B, Digital Telecommunication, Electronics A&B, Electronics A&B, Signal Processing, Object-Oriented Languages and Operative Systems  
 
 experiences:
     - role: Backend Developer
@@ -142,16 +131,13 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
+    
     papers:
       - title: "Injecting Image Priors into Learnable Compressive Subsampling"
         authors: M. Ferrari, O. Taran, T. Holotyak, K. Egiazarian, and S. Voloshynovskiy
         conference: "26th European Signal Processing Conference (EUSIPCO), Rome, Italy"
 
-      - title: Signal sampling with joint training
+      - title: Signal sampling with joint training of learnable priors for sampling operator and decoder
         authors: M. Ferrari, O. Taran, T. Holotyak, K. Egiazarian, and S. Voloshynovskiy
         conference: "European Patent 18191494.6"
 
@@ -159,17 +145,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name:  C/C++ & Java
+      - name:  C/C++
+        level: 98%
+        
+      - name: Java
         level: 98%
 
       - name: Python 
         level: 98%
         
-      - name: Octave & Julia & Lua
+      - name: Octave / Matlab
         level: 95%
         
+      - name: Julia
+        level: 65%
+    
+      - name: Lua
+        level: 75%
+        
       - name: Haskell
-        level: 90%
+        level: 70%
 
       - name: HTML5 & CSS & JavaScript 
         level: 90%
@@ -181,6 +176,6 @@ skills:
         level: 60%
 
       - name: VeriLog
-        level: 50%
+        level: 30%
 
 footer: 
