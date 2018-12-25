@@ -102,8 +102,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      Some of my projects
+    intro: |
 
     assignments:
       - title: LSC and DIP
