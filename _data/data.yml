@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: martino.g.ferrari@gmail.com
-    phone: 012 345 6789
+    phone: 
     website: #blog.webjeda.com #do not add http://
     linkedin: mandamgf
     github: mandarancio
@@ -103,31 +103,33 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some of my projects
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: LSC and DIP
+        link: "https://mandarancio.github.io/LSC-DIP/"
+        tagline: "Python implementation of two novel methods to inject image priors into learnable compressive subsampling."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: SciDown
+        link: "https://github.com/Mandarancio/scidown"
+        tagline: "Definition of an extension of MarkDown for scientific publication. Implementation of an HTML and LaTeX compiler written in C."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Charter
+        link: "https://github.com/Mandarancio/charter"
+        tagline: "Simple Domain Specific Language (DSL) and C library to generate SVG plots."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: NBodies
+        link: "https://github.com/Mandarancio/nbodies"
+        tagline: "Graphical N-Body simulation in Haskell using the Barnes Hut technique."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Orbital Ballistic
+        link: "https://github.com/Mandarancio/Planetary-Ballistics"
+        tagline: "Small game simulating an inter-planetary war written in Lua."
 
+      - title: OpenGoo
+        link: "http://mandarancio.github.io/OpenGOO/"
+        tagline: "A free clone of “World Of Goo written” in C++ using the Qt framework."
+    
 publications:
     title: Publications
     intro: |
