@@ -74,13 +74,13 @@ education:
         *Relevant courses*: Robotics, Automatic Controls A&B, Digital Telecommunication, Electronics A&B, Electronics A&B, Signal Processing, Object-Oriented Languages and Operative Systems  
 
 experiences:
-    - role: Backend Developer
+    - role: Full-stack  Developer
       time: 2016
       company: WedTrade, Geneva (CH)
       details: |
         Development of a Business to Business e-commerce website from scratch using the last web technologies.
 
-    - role: Full-stack developer
+    - role: Real-Time Software Engineer
       time: 2014 - 2016
       company: CERN, Geneva (CH)
       details: |
