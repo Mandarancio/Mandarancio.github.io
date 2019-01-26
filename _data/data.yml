@@ -49,10 +49,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        I am a Computer Scientist specilized in **Machine Learning** and **Image Processing** passionate of *research* and software development with a previous carreer as *Software Engineer* for both real-time embedded systems and distributed systems.   
-        I have also acquired strong knowledge of *control theory*, *electronics* and *telecomunication* trought my bachlor in Computer Engineering.   
-        In my free time I experiment with *robotics* and *electronics* or develop *open source* projects that varies from games to application to improve my workflow.
-    
+        I am a Computer Scientist specialised in **Machine Learning** and **Image Processing** passionate of *research* and *software development* with a previous career as *Software Engineer* for both real-time embedded systems and distributed systems. 
+        I have also acquired a strong knowledge of *information theory*, *control theory*, *electronics* and *telecommunication* through my bachelor in Computer Engineering and my master in Computer Science. 
+        In my free time, I experiment with *robotics* and *electronics* or develop open source projects that vary from games to application to improve my workflow.
     
 education:
     - degree: MSc in Computer Science
