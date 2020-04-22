@@ -73,6 +73,12 @@ education:
         *Relevant courses*: Robotics, Automatic Controls A&B, Digital Telecommunication, Electronics A&B, Electronics A&B, Signal Processing, Object-Oriented Languages and Operative Systems  
 
 experiences:
+    - role: R&D Software Engineer
+      time: 2019 - Present
+      company: CS Group, Toulouse (France)
+      details: |
+	Technical leader of the Sentinel 2 Toolbox and responsible of the SNAP continuous integration platform, both for the European Space Agency. SNAP expert support for the RUS Copernicus project. Additional support to other CS teams on algorithm and optimisation.
+
     - role: Full-stack  Developer
       time: 2016
       company: WedTrade, Geneva (CH)
