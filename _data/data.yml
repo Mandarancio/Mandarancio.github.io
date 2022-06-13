@@ -49,7 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        I am a Computer Scientist specialised in **Machine Learning** and **Image Processing** passionate of *research* and *software development* with a previous career as *Software Engineer* for both real-time embedded systems and distributed systems. 
+        I am a Computer Scientist specialised in **Machine Learning** and **Signal Processing** passionate of *research* and *software development* with a previous career as *Software Engineer* for both real-time embedded systems and distributed systems. 
         I have also acquired a strong knowledge of *information theory*, *control theory*, *electronics* and *telecommunication* through my bachelor in Computer Engineering and my master in Computer Science. 
         In my free time, I experiment with *robotics* and *electronics* or develop open source projects that vary from games to application to improve my workflow.
     
@@ -73,8 +73,14 @@ education:
         *Relevant courses*: Robotics, Automatic Controls A&B, Digital Telecommunication, Electronics A&B, Electronics A&B, Signal Processing, Object-Oriented Languages and Operative Systems  
 
 experiences:
+    - role: Instrumentation & Control Engineer
+      time: 2021 - present
+      company: ITER, Saint-Paul-lez-Durance (France)
+      details: |
+        Working on the fast control system of the ITER Electron Cyclotron plant.
+        
     - role: R&D Software Engineer
-      time: 2019 - Present
+      time: 2019 - 2021
       company: CS Group, Toulouse (France)
       details: |
         Technical leader of the Sentinel 2 Toolbox and responsible of the SNAP continuous integration platform, both for the European Space Agency. SNAP expert support for the RUS Copernicus project. Additional support to other CS teams on algorithm and optimisation.
@@ -89,7 +95,7 @@ experiences:
       time: 2014 - 2016
       company: CERN, Geneva (CH)
       details: |
-        Responsible of the real-time embed ed control software for several accelerator 
+        Responsible of the real-time embedded control software for several accelerator 
         instrumentation and the front-end expert tool to control them. Other side projects included
         the development of several *GNU/Linux* driver for custom VME boards, a web server to 
         access to the *VME* boards using a simple *REST API* and developing and maintaining of 
